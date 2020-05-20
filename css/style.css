@@ -1,14 +1,13 @@
-/*Background coloring*/
 body {
     background-image: url("paper.gif");
     background-color: #cccccc;
    }
 
-/*Gives the portfolio div padding and width to fit placeholder images*/
 .width-portfolio {
     width: 62%;
     padding: 2%;
     padding-right:3%;
 }
+
 
 
